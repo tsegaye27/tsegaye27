@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/tsegaye27" target="blank"><img src="https://img.shields.io/twitter/follow/tsegaye27?logo=twitter&style=for-the-badge" alt="tsegaye27" /></a> </p>
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **ttalegn29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
