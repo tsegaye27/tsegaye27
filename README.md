@@ -21,7 +21,7 @@
 <br/>
 <br/>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsegaye27&theme=radical&show_icons=true&locale=en&layout=compact" alt="tsegaye27" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsegaye27&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="tsegaye27" />
 </p>
 <br/>
 <br/>
@@ -31,7 +31,7 @@
 <br/>
 <br/>
 <p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tsegaye27&theme=dark&show_icons=true&locale=en" alt="tsegaye27" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tsegaye27&theme=tokyonight&show_icons=true&locale=en" alt="tsegaye27" />
 </p>
 <br/>
 <br/>
