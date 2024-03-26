@@ -1,4 +1,4 @@
-![Header](./banner.png)
+![Header](./githubbanner.png)
 <h1 align="center">Hi 👋, I'm Tsegaye Talegngeta</h1>
 <h3 align="center">A passionate developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="./programmer.gif">
