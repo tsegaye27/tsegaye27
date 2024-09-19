@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Nuxt, Next**
 
-- 💬 Ask me about **React, Express,MongoDB**
+- 💬 Ask me about **React, Express, Vue, Nuxt**
 
 - 📫 How to reach me **ttalegn29@gmail.com**
 
