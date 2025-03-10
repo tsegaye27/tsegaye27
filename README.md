@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsegaye27&label=Profile%20views&color=0e75b6&style=flat" alt="tsegaye27" /> </p>
 
-- 🌱 I’m currently learning **Nuxt, Next**
+- 🌱 I’m currently learning **Nest**
 
-- 💬 Ask me about **React, Express, Vue, Nuxt**
+- 💬 Ask me about **React, Express, Vue, Next, Nuxt**
 
 - 📫 How to reach me **ttalegn29@gmail.com**
 
