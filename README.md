@@ -9,6 +9,7 @@
 - 💬 Ask me about **React, Express, Vue, Next, Nuxt**
 
 - 📫 How to reach me **ttalegn29@gmail.com**
+- <a href="https://tsegaye-talegngeta.vercel.app">Portfolio Site</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
