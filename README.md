@@ -1,4 +1,4 @@
-<img src="./github_banner.png" alt="banner_img" />
+<img src="./banner.png" alt="banner_img" />
 <h1 align="center">Hi 👋, I'm Tsegaye</h1>
 <h3 align="center">Software Engineer and Full-stack developer</h3>
 
