@@ -1,12 +1,10 @@
-<img src="./banner.png" alt="banner_img" />
+<img src="./banner_image.png" alt="banner_img" />
 <h1 align="center">Hi 👋, I'm Tsegaye</h1>
 <h3 align="center">Software Engineer and Full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsegaye27&label=Profile%20views&color=0e75b6&style=flat" alt="tsegaye27" /> </p>
 
-- 🌱 I’m currently learning **Nest and React Native**
-
-- 💬 Ask me about **React, Express, Vue, Next, Nuxt**
+- 💬 Ask me about **React, Go, Express, Next, Nuxt**
 
 - 📫 How to reach me **ttalegn29@gmail.com**
 - <a href="https://tsegaye-talegngeta.vercel.app">Portfolio Site</a>
